@@ -1,1 +1,1 @@
-# cc-gen
+# privacy-policy
