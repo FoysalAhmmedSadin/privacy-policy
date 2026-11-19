@@ -1,58 +1,104 @@
 # Legal & Policy Center
 
-Official privacy, content-use, copyright and source-code licensing policy for projects and platforms operated by **Foysal Ahmed Sadin**.
+Official legal, privacy, copyright, personal-content and source-code licensing information for projects and platforms operated by **Foysal Ahmed Sadin**.
 
-## Policy website
+<p align="center">
+  <a href="https://foysalahmmedsadin.github.io/privacy-policy/"><strong>View the Live Policy Website</strong></a>
+</p>
 
-- **Live policy:** https://foysalahmmedsadin.github.io/privacy-policy/
-- **Repository:** https://github.com/FoysalAhmmedSadin/privacy-policy
-- **Contact:** foysal24x7@gmail.com
+## Official Links
 
-## Source code license
+| Resource | Link |
+|---|---|
+| Live policy website | https://foysalahmmedsadin.github.io/privacy-policy/ |
+| GitHub repository | https://github.com/FoysalAhmmedSadin/privacy-policy |
+| License | [LICENSE](./LICENSE) |
+| Contact / permission requests | foysal24x7@gmail.com |
 
-Unless a repository contains a different written license, code is covered by the **Foysal Personal & Educational Non-Commercial License (FPE-NC) v1.0** in the `LICENSE` file.
+## What This Repository Contains
 
-This is a custom restrictive license, **not an open-source license** and not the MIT License.
+This repository hosts a single-page **Legal & Policy Center** covering:
 
-### Allowed without commercial permission
+- Privacy and information-handling disclosures.
+- Source-code licensing and permitted use.
+- Copyright and personal-content restrictions.
+- AI use, editing and training restrictions.
+- Permission requests and copyright takedown concerns.
+- Cookies, third-party services, data retention and security.
+- Disclaimers, liability and applicable-law information.
 
-- View, download, study and modify code for your own personal, educational and non-commercial use.
+## Source Code License
+
+Unless a particular repository or a separate written agreement states otherwise, covered source code is governed by the **Foysal Personal & Educational Non-Commercial License (FPE-NC) v1.0**, available in the [LICENSE](./LICENSE) file.
+
+**This is a custom restrictive license. It is not an open-source license and it is not the MIT License.**
+
+### Permitted without separate commercial permission
+
+- View, download, study and modify the code for personal, educational and non-commercial purposes.
 - Keep private copies and private modifications for those permitted purposes.
 - Share a link to the original repository.
 
-### Written permission required first
+### Prior written permission is required for
 
-- Selling or reselling the code, copies or modified versions.
-- Use in a business, commercial operation, paid client project, paid product or paid service.
-- Commercial deployment, monetized applications, websites, SaaS products or other revenue-generating use.
+- Selling, reselling, sublicensing or commercially distributing the code or modified versions.
+- Using the code in a business, paid client project, paid product, paid service or revenue-generating activity.
+- Commercial deployment, including monetized applications, websites, SaaS products or business services.
 - Redistributing copies or modified versions to other people.
-- Sublicensing or granting usage rights to another person or organization.
+- Granting another person or organization rights to use the code.
 
-Request permission at **foysal24x7@gmail.com**. Describe the project and intended use. No reply means no permission.
+To request permission, email **foysal24x7@gmail.com** with details of the project and intended use. **No reply does not mean permission has been granted.**
 
-## Personal media and AI restrictions
+A repository-specific license or separate written agreement may override or supplement these terms for that project. Always check the relevant repository's own `LICENSE` file; this repository does not automatically change the license of other repositories.
 
-The license for source code does not grant rights to personal photographs, videos, voice recordings, artwork, writings, logos or other non-code content. Prior written permission is required to repost, republish, edit, transform, adapt, commercially use or submit such content to AI tools. AI-assisted use of source code is limited to the non-commercial uses allowed by its license.
+## Personal Content and AI Restrictions
 
-## Third-party misuse and disclaimers
+The source-code license does **not** grant permission to use personal or other non-code content, including photographs, videos, voice recordings, writings, artwork, logos or profile materials.
 
-Users are responsible for their own use, modifications and deployments and must not use the code for unlawful or harmful activity. To the maximum extent permitted by applicable law, the copyright holder disclaims responsibility for misuse by users or third parties. The code is provided "AS IS", without warranties, subject to rights and liabilities that cannot legally be excluded.
+Without prior written permission, you must not:
 
-The custom license states Bangladesh law as its intended governing law, subject to mandatory applicable law. This repository's policy and license are general documents, not legal advice; consider review by a qualified lawyer before relying on them for formal enforcement.
+- Upload, submit or provide this personal content to an AI system or service.
+- Use AI to edit, retouch, enhance, alter, transform, recreate or generate variations of the content.
+- Use the content as an AI prompt, reference, dataset, training material or fine-tuning input.
+- Use AI to imitate a person's identity or voice, remove attribution, or create misleading material that appears to be approved by the owner.
 
-## Privacy policy scope
+**AI-based editing is also prohibited without prior written permission.** The restriction applies to public or private, local or cloud-based, free or paid AI tools.
 
-The policy applies only to services and content under the owner's control. Before publishing it as a privacy notice for a specific service, ensure that its disclosures accurately match the actual data collection, cookies, analytics, advertising and retention practices of that service.
+AI assistance with source code is permitted only within the personal, educational and non-commercial uses allowed by the applicable source-code license. It does not grant commercial, resale or redistribution rights.
 
-## Repository structure
+## Responsibility and Disclaimers
 
-```
+Users are responsible for their own use, modifications, deployments and compliance with applicable law. The code is provided **“AS IS”**, without warranties, to the maximum extent permitted by law. The license limits liability to the extent legally permitted and does not exclude rights or liabilities that cannot lawfully be excluded.
+
+The license expresses an intended connection to the laws of Bangladesh, subject to mandatory applicable law. The policy and license are general documents, not legal advice; seek qualified legal review before relying on them for formal enforcement.
+
+## Privacy Policy Scope
+
+The policy applies to services and content under the owner's control. Data collection, cookies, analytics, advertising, logs and retention can vary by service and provider. Before using the page as the privacy notice for a particular service, ensure its disclosures accurately describe that service's actual practices. Third-party platforms remain subject to their own terms and privacy policies.
+
+## Run Locally
+
+This is a static website. No build tools, package installation or external dependencies are required.
+
+1. Clone or download this repository.
+2. Open `index.html` in a modern web browser.
+
+## Repository Structure
+
+```text
 privacy-policy/
-├── index.html
-├── README.md
-└── LICENSE
+├── index.html   # Single-page Legal & Policy Center
+├── README.md    # Project overview and policy summary
+└── LICENSE      # FPE-NC v1.0 custom source-code license
 ```
 
-## Run locally
+## Contact
 
-Open `index.html` in a modern browser. No build tools or external dependencies are required.
+For written permission, privacy questions, copyright concerns or other official inquiries:
+
+**Foysal Ahmed Sadin**  
+**Email:** [foysal24x7@gmail.com](mailto:foysal24x7@gmail.com)
+
+---
+
+© 2026 Foysal Ahmed Sadin. All rights reserved for content not separately licensed.
