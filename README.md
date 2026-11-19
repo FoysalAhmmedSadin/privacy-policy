@@ -1,61 +1,52 @@
-# Intellectual Property & Privacy Directive
+# Privacy & Usage Policy
 
-A lightweight, responsive legal-notice webpage presenting the site's intellectual-property ownership statement, restrictions on unauthorized use, permission-request process, and contact information.
+Official privacy, content-use and intellectual-property policy for projects and platforms operated by **Foysal Ahmed Sadin**.
 
-## Overview
+## Policy website
 
-This repository contains a single-page HTML document titled **Intellectual Property & Privacy Directive**. It uses a dark glass-style card layout with green accents and is designed to work on desktop and mobile screens.
+- **Live policy:** https://foysalahmmedsadin.github.io/privacy-policy/
+- **Repository:** https://github.com/FoysalAhmmedSadin/privacy-policy
+- **Contact:** foysal24x7@gmail.com
 
-## Features
+## What this policy covers
 
-- Responsive layout for mobile and desktop
-- Self-contained HTML, CSS, and page content
-- Dark gradient background with a translucent, blurred policy card
-- Sections covering:
-  - Proprietary rights and ownership
-  - Restrictions on copying, distribution, modification, and commercial use
-  - Information requested for permission/clearance inquiries
-  - Enforcement statement
-- Clickable email contact link: **foysal24x7@gmail.com**
-- No build tools, frameworks, or external JavaScript dependencies
+- Open-source software and code reuse
+- Required copyright and author attribution
+- Personal photos, videos, artwork and other media
+- Written permission requests
+- Copyright complaints and enforcement
+- Information that may be received through websites and communications
+- Cookies, analytics, third-party services and hosting logs
+- Data retention, security and privacy requests
+- External links and policy updates
 
-## Project Structure
+## Open-source code license
 
-```text
+Unless a project says otherwise, code explicitly published as open source is licensed under the **MIT License**. Reusers must preserve the copyright and license notice. Crediting **Foysal Ahmed Sadin** and linking to the original project is also requested.
+
+The MIT License provides the software “AS IS”, without warranty. No claim is made that all code is bug-free, secure or suitable for every use. Check the individual repository's LICENSE file because project-specific terms may differ.
+
+## Personal media is not open source
+
+The MIT License applies to software code only. It does not grant permission to reuse personal photographs, videos, personal writings, artwork, identity-related materials, logos or other media. Obtain prior written permission by emailing **foysal24x7@gmail.com**. Credit or a link alone is not permission.
+
+## Use across platforms
+
+You may link to the policy from websites, apps, social profiles and other services you operate. The policy applies only to services and content under the owner's control. Each third-party platform has its own privacy policy and terms. Before publishing this as a privacy notice on a specific service, ensure its actual data collection, cookies, analytics, advertising and retention practices match the disclosures in `index.html`.
+
+## Repository structure
+
+```
 privacy-policy/
 ├── index.html
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
-## Run Locally
+## Run locally
 
-1. Clone or download this repository.
-2. Open `index.html` in any modern web browser.
+Open `index.html` in a modern browser. No build tools or external dependencies are required.
 
-No package installation or build step is required.
+## Legal information
 
-## Deployment
-
-The page can be hosted as a static website using GitHub Pages or another static hosting provider.
-
-For GitHub Pages:
-
-1. Open the repository on GitHub.
-2. Go to **Settings → Pages**.
-3. Choose the branch containing `index.html` and the repository root (`/`) as the publishing source.
-4. Save the settings and wait for GitHub Pages to publish the site.
-
-## Customization
-
-- Edit the policy text directly in `index.html`.
-- Change the contact email by updating the visible address and its `mailto:` link.
-- Adjust colors, spacing, typography, and responsive breakpoints in the embedded `<style>` section.
-- Update the copyright notice in the footer when ownership details change.
-
-## Important Legal Note
-
-This repository documents the content and implementation of the published notice; it is not a substitute for legal advice. Although the page is named `privacy-policy`, the current HTML primarily contains intellectual-property and permitted-use statements. It does **not** specify detailed privacy-policy disclosures such as what personal data is collected, cookies or analytics usage, retention periods, sharing practices, or user privacy rights. Add accurate disclosures before presenting it as a complete privacy policy, and have legal wording reviewed where appropriate.
-
-## License
-
-No open-source license is included in this repository. Do not assume the source or page content is available for reuse; request permission from the owner for reuse.
+This is a general-purpose policy template, not legal advice or a guarantee that it satisfies every law or platform requirement. Privacy disclosures must accurately describe the actual service. Consider review by a qualified lawyer before relying on it for formal legal enforcement or regulated services.
