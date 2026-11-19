@@ -1,21 +1,92 @@
-MIT License
+Foysal Personal & Educational Non-Commercial License (FPE-NC) v1.0
 
-Copyright (c) 2026 Foysal Ahmed Sadin
+Copyright (c) 2026 Foysal Ahmed Sadin. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT: This is a custom, restrictive license. It is NOT an
+open-source license and is not the MIT License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PERMITTED USE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Subject to the terms below, the copyright holder grants you a limited,
+personal, non-exclusive, non-transferable, revocable permission to view,
+download, study and modify the source code solely for your own personal,
+educational and non-commercial use.
+
+You may keep private copies and private modifications for those permitted
+purposes. You may share a link to the original repository.
+
+2. USES THAT REQUIRE PRIOR WRITTEN PERMISSION
+
+You must obtain explicit written permission from Foysal Ahmed Sadin before:
+
+- Selling, reselling, sublicensing or commercially distributing the code
+  or any copy, adaptation or modified version.
+- Using the code in a business, commercial operation, paid client project,
+  paid product, paid service, or revenue-generating activity.
+- Deploying the code for commercial purposes, including as part of a
+  monetized application, website, SaaS product or business service.
+- Publishing or distributing copies or modified versions to other people,
+  except for sharing a link to the original repository.
+- Granting another person or organization rights to use the code.
+
+Permission requests must be sent to: foysal24x7@gmail.com.
+The request must describe the project, intended use, distribution and
+commercial model. No reply does not mean permission has been granted.
+
+3. RESTRICTIONS
+
+You must not remove or alter copyright notices, misrepresent authorship,
+use the code for unlawful or harmful activity, or claim that the copyright
+holder endorses your project. AI-assisted use is permitted only for the
+personal, educational and non-commercial purposes allowed by this license.
+AI use does not grant commercial, redistribution or sublicensing rights.
+
+4. OWNERSHIP
+
+The copyright holder retains all copyright and other intellectual-property
+rights in the code. No rights are granted except the limited permissions
+expressly stated in this license. Rights in third-party components remain
+subject to their own licenses.
+
+5. NO WARRANTY
+
+The code is provided "AS IS" and without warranties of any kind, to the
+maximum extent permitted by applicable law. The copyright holder does not
+guarantee that the code is error-free, secure, fit for a particular purpose,
+or suitable for your use.
+
+6. RESPONSIBILITY AND LIMITATION OF LIABILITY
+
+You are responsible for your use, modifications, deployment and compliance
+with applicable laws. You must not use the code for unlawful, harmful,
+deceptive, abusive or unauthorized purposes. To the maximum extent
+permitted by applicable law, the copyright holder is not liable for claims,
+losses, damages or consequences arising from your use or misuse of the code,
+your modifications, your combination of the code with other materials, or
+the actions of other users or third parties.
+
+Nothing in this license excludes or limits liability or rights that cannot
+lawfully be excluded or limited.
+
+7. TERMINATION
+
+Permission under this license terminates automatically if you materially
+breach its terms. Upon termination, you must stop the use that is not
+authorized by this license, subject to any rights that cannot legally be
+restricted.
+
+8. GOVERNING LAW
+
+This license is intended to be governed by the laws of Bangladesh, subject
+to any mandatory laws that apply. Disputes are subject to the jurisdiction
+of competent courts in Bangladesh, where legally permitted.
+
+9. ENTIRE PERMISSION
+
+This license is the complete statement of the permissions granted for the
+covered code unless a separate written agreement signed or expressly
+approved by the copyright holder states otherwise.
+
+For written permission or questions:
+Foysal Ahmed Sadin
+foysal24x7@gmail.com
